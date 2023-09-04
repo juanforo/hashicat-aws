@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "jforeror-aws"
     workspaces {
-      name = "hashicat-aws"
+      name = "hashicat-aws-dev"
     }
   }
 }
